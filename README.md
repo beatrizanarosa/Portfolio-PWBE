@@ -4,7 +4,6 @@ realizadas durante o segundo semestre de
 2023 na unidade curricular de Programação
 Web Front-End no Sesi Senai Itapeva.
 ## Estrutura do Repositório
-- Atividade 1 – Branding Board
 - Atividade 2 – Colunas responsivas
 - Atividade 3 – Sistema de RH
 - Atividade 4 – Exercícios de JavaScript
