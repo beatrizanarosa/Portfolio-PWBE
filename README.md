@@ -10,5 +10,22 @@ Web Front-End no Sesi Senai Itapeva.
 - Atividade 5 – Trabalho em duplas
 ## Tecnologias Utilizadas
 - HTML – CSS - JavaScript
-## Autor
-- Ana Beatriz
+## Licença
+
+
+Este projeto é fornecido sob a Licença [MIT](LICENSE).
+
+
+## Contribuições
+
+
+Contribuições são bem-vindas. Sinta-se à vontade para fazer um fork do repositório e abrir um Pull Request com melhorias, correções ou novos recursos.
+
+
+## Contato
+- [Ana Beatriz]: Autora do projeto
+
+- [Rafael Ribas]: Instrutor de Programação Web Front-End.
+
+
+- [João Paulo]: Instrutor de Programação Web Back-End.
